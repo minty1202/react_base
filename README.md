@@ -1,7 +1,7 @@
 # react_base
 reactのベース 要調整
 
-# コピーして使う場合
+## コピーして使う場合
 
 'react-sample'を消す
 
